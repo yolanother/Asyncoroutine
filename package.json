@@ -1,0 +1,4 @@
+{"unity":"2019.4", "name":"com.zsaladin.asyncorotuines", "displayName":"Asyncoroutines", "description":"Asyncoroutine is a unity asset that allows you to use Coroutine and async/await together. You might face the situation that Coroutine and async/await get together. In this situation 'Asyncoroutine' is useful. You don't need to switch your code style from Coroutine to async/await or from async/await to Coroutine by using 'Asyncoroutine'.", "version":"1.0.0",  "author": {
+    "name": "Daehee Kim",
+    "url": "https://github.com/zsaladin/Asyncoroutine"
+  }}
